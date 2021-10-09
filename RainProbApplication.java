@@ -1,3 +1,6 @@
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Random;
 public class RainCloudFarming {
 	public static ArrayList<Integer> rainDropsList= new ArrayList<>();
 	
